@@ -1,0 +1,4 @@
+Year of the award:
+title.find_elements_by_tag_name("h1")[0].find_elements_by_css_selector("span.ng-binding")[0].text
+
+
